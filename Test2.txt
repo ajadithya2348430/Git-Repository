@@ -1,1 +1,16 @@
 My name is adithya i am a software engineer working for TCS
+
+These changes are from feature branch, and gonna push all of these.
+
+go to previous commits and delete all the commits a head of it create is safer.
+add --hard flag to also delete workspace changes be very careful
+
+review your repo:
+list new or modified files not yet commmited 
+git status
+list commit history with respective IDES
+git log --oneline
+show changes to undtaged files for changes to staged files add --cached option 
+git diff
+ show changes b/w two commis
+ git dicc commmit -id commit3 id
